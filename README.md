@@ -1,4 +1,4 @@
-# Pollutiondb
+# Pollution_stations_website
 
 To start your Phoenix server:
 
