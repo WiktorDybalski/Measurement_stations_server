@@ -1,5 +1,29 @@
 # Pollution_stations_website
 
+## Project description
+This project is a web application built using the Phoenix framework and the Elixir programming language. It connects to a database via Ecto for efficient data management. The application is designed for scalability and ease of deployment, making it suitable for developing modern web applications.
+
+## Technologies Used
+
+- **Elixir**
+- **Phoenix**
+- **Ecto**
+
+## Screenshots
+
+Stations view:
+
+![Opis obrazu](ścieżka/do/obrazu)
+
+Readings view:
+
+![Opis obrazu](ścieżka/do/obrazu)
+
+Readings filtering view:
+
+![Opis obrazu](ścieżka/do/obrazu)
+
+## Usage
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
@@ -7,12 +31,6 @@ To start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+## Author
 
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+- [Wiktor Dybalski](https://github.com/WiktorDybalski)
