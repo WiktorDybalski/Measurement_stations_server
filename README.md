@@ -13,15 +13,15 @@ This project is a web application built using the Phoenix framework and the Elix
 
 Stations view:
 
-![Opis obrazu](ścieżka/do/obrazu)
+![Opis obrazu](https://github.com/WiktorDybalski/Pollution_stations_website/blob/master/1.png)
 
 Readings view:
 
-![Opis obrazu](ścieżka/do/obrazu)
+![Opis obrazu](https://github.com/WiktorDybalski/Pollution_stations_website/blob/master/2.png)
 
 Readings filtering view:
 
-![Opis obrazu](ścieżka/do/obrazu)
+![Opis obrazu](https://github.com/WiktorDybalski/Pollution_stations_website/blob/master/3.png)
 
 ## Usage
 To start your Phoenix server:
